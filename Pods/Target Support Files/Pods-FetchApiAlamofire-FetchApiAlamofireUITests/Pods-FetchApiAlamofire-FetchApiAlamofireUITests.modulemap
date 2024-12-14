@@ -1,0 +1,6 @@
+framework module Pods_FetchApiAlamofire_FetchApiAlamofireUITests {
+  umbrella header "Pods-FetchApiAlamofire-FetchApiAlamofireUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
